@@ -27,7 +27,7 @@ main {
   max-width: 85rem;
 }
 
-@media (min-width: 768px){
+@media (min-width: 768px) {
   #dashboard {
     flex-direction: row;
   }
